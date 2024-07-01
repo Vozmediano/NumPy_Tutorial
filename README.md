@@ -26,3 +26,6 @@ Este tutorial se va a dividir por secciones las cuales seran:
   - Ejercicios de Arrays
 
 El tutorial se ha creado en Google Colab por lo que se recomienda la apertura del archivo con la misma herramienta.
+
+Espero que sirva de ayuda!!!
+Gracias :)
