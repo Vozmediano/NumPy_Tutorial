@@ -1,6 +1,5 @@
-# Tutorial_Numpy
 
-![numpy python](https://github.com/Vozmediano/Tutorial_Numpy/assets/140751734/29902006-8e82-4d89-a0f3-0eaf0299e8cf)
+![Numpy](https://github.com/user-attachments/assets/d2598f17-197f-44b1-9732-2ad4ef478b3e)
 
 # ![Badge TUTORIAL](https://img.shields.io/badge/TYPE-TUTORIAL-blue) ![Badge LENGUAJE](https://img.shields.io/badge/LANGUAGE-PYTHON-red?style=flat&logo=python&logoColor=white&logoSize=auto) ![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green) ![Badge DISFRUTALO](https://img.shields.io/badge/ENJOY%20IT-8A2BE2) ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
