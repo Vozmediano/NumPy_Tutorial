@@ -2,6 +2,7 @@
 
 ![numpy python](https://github.com/Vozmediano/Tutorial_Numpy/assets/140751734/29902006-8e82-4d89-a0f3-0eaf0299e8cf)
 
+# ![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 
 En este tutorial vamos a ver una libreria de Python llamada NumPy, muy utilizada para la ciencia de datos
 e inteligencia artificial por el soporte para crear vectores y matrices grandes multidimensionales, 
